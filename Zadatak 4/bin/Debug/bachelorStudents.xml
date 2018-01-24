@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bachelorStudents>
+  <bachelorStudent>
+    <Name>Test</Name>
+    <Surname>Testovic</Surname>
+    <DateOfBirth>1990,1,1</DateOfBirth>
+    <IDNumber>1111111111111</IDNumber>
+    <IDIndexNumber>16781</IDIndexNumber>
+    <EndOfPreviousEducation>2013,5,1</EndOfPreviousEducation>
+  </bachelorStudent>
+  <bachelorStudent>
+    <Name>Microsoft</Name>
+    <Surname>Microsoft</Surname>
+    <DateOfBirth>1990,2,1</DateOfBirth>
+    <IDNumber>1111111111112</IDNumber>
+    <IDIndexNumber>16782</IDIndexNumber>
+    <EndOfPreviousEducation>2013,5,1</EndOfPreviousEducation>
+  </bachelorStudent>
+</bachelorStudents>

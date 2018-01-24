@@ -1,0 +1,11 @@
+c:\users\amer\documents\visual studio 2015\Projects\Fakultet\Fakultet\bin\Debug\Fakultet.dll
+c:\users\amer\documents\visual studio 2015\Projects\Fakultet\Fakultet\bin\Debug\Fakultet.pdb
+c:\users\amer\documents\visual studio 2015\Projects\Fakultet\Fakultet\obj\Debug\Fakultet.csprojResolveAssemblyReference.cache
+c:\users\amer\documents\visual studio 2015\Projects\Fakultet\Fakultet\obj\Debug\Fakultet.dll
+c:\users\amer\documents\visual studio 2015\Projects\Fakultet\Fakultet\obj\Debug\Fakultet.pdb
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Fakultet\bin\Debug\Fakultet.dll
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Fakultet\bin\Debug\Fakultet.pdb
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Fakultet\obj\Debug\Fakultet.csprojResolveAssemblyReference.cache
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Fakultet\obj\Debug\Fakultet.csproj.CoreCompileInputs.cache
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Fakultet\obj\Debug\Fakultet.dll
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Fakultet\obj\Debug\Fakultet.pdb

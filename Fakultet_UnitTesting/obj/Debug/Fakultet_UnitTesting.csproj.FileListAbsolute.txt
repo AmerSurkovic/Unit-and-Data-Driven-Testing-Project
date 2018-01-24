@@ -1,0 +1,7 @@
+c:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Fakultet_UnitTesting\bin\Debug\Fakultet_UnitTesting.dll
+c:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Fakultet_UnitTesting\bin\Debug\Fakultet_UnitTesting.pdb
+c:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Fakultet_UnitTesting\bin\Debug\Fakultet.dll
+c:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Fakultet_UnitTesting\bin\Debug\Fakultet.pdb
+c:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Fakultet_UnitTesting\obj\Debug\Fakultet_UnitTesting.csprojResolveAssemblyReference.cache
+c:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Fakultet_UnitTesting\obj\Debug\Fakultet_UnitTesting.dll
+c:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Fakultet_UnitTesting\obj\Debug\Fakultet_UnitTesting.pdb

@@ -1,0 +1,18 @@
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 5\bin\Debug\Zadatak 5.dll
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 5\bin\Debug\Zadatak 5.pdb
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 5\bin\Debug\Fakultet.dll
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 5\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 5\bin\Debug\Fakultet.pdb
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 5\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 5\obj\Debug\Zadatak 5.csprojResolveAssemblyReference.cache
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 5\obj\Debug\Zadatak 5.dll
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 5\obj\Debug\Zadatak 5.pdb
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 5\bin\Debug\Zadatak 5.dll
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 5\bin\Debug\Zadatak 5.pdb
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 5\bin\Debug\Fakultet.dll
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 5\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 5\bin\Debug\Fakultet.pdb
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 5\obj\Debug\Zadatak 5.csprojResolveAssemblyReference.cache
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 5\obj\Debug\Zadatak 5.csproj.CoreCompileInputs.cache
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 5\obj\Debug\Zadatak 5.dll
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 5\obj\Debug\Zadatak 5.pdb

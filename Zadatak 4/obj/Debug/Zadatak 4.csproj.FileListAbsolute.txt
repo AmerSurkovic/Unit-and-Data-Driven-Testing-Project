@@ -1,0 +1,21 @@
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 4\bin\Debug\Zadatak 4.dll
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 4\bin\Debug\Zadatak 4.pdb
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 4\bin\Debug\Fakultet.dll
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 4\bin\Debug\Fakultet.pdb
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 4\obj\Debug\Zadatak 4.csprojResolveAssemblyReference.cache
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 4\obj\Debug\Zadatak 4.dll
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 4\obj\Debug\Zadatak 4.pdb
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 4\bin\Debug\Zadatak 4.dll.config
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 4\bin\Debug\bachelorStudents.xml
+C:\Users\Amer\documents\visual studio 2015\Projects\Fakultet\Zadatak 4\bin\Debug\data.csv
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\obj\Debug\Zadatak 4.csprojResolveAssemblyReference.cache
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\obj\Debug\Zadatak 4.csproj.CoreCompileInputs.cache
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\obj\Debug\Zadatak 4.dll
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\obj\Debug\Zadatak 4.pdb
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\bin\Debug\bachelorStudents.xml
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\bin\Debug\data.csv
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\bin\Debug\Zadatak 4.dll.config
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\bin\Debug\Zadatak 4.dll
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\bin\Debug\Zadatak 4.pdb
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\bin\Debug\Fakultet.dll
+C:\Users\Amer\Desktop\AmerSurkovicGrupa2\AmerSurkovicGrupa2\Zadatak 4\bin\Debug\Fakultet.pdb
